@@ -38,7 +38,7 @@ Daftar Disini https://t.me/CyberFinanceBot?start=cj1qemZMZEpaVkNTSUkmdT1yZWY=
 ```shell
 >> python main.py
 ```
-![image](https://github.com/Punten10/CyberFinance-BOT/assets/64400801/83bcf90e-10a9-4580-a63c-9070e5b77cd9)
+![image](https://github.com/Punten10/CyberFinance-BOT/assets/64400801/7538d540-b777-49e6-8a71-4f8a6602021b)
 
 # SUPPORT ME
 https://sociabuzz.com/surrealflux/tribe
